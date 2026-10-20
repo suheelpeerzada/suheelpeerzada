@@ -1,4 +1,4 @@
-# Hi, I'm Suheel Shah
+# Hi, I'm Suheel
 
 **Computer Science Engineer | AI/ML | GenAI | Backend Development**
 
